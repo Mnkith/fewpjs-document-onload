@@ -39,7 +39,7 @@ event and a _callback function_.
 ```js
 document.addEventListener("DOMContentLoaded", function() {
   console.log("The DOM has loaded");
-});
+}); 
 ```
 
 If you put the above code in `index.js`, 'The DOM has loaded' will not be logged
